@@ -6,7 +6,7 @@
   "repository": "git@github.com:xmd5a/test-package.git",
   "author": "Piotr Szarmach",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "tsc"
   },
