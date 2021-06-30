@@ -1,11 +1,11 @@
 {
-  "name": "@ecolytiq/design-system",
+  "name": "@xmd5a/design-system",
   "version": "0.1.0",
   "description": "Ecolytiq design system",
   "main": "index.js",
-  "repository": "git@github.com:ecolytiq-team/js-design-system.git",
-  "author": "PGS Software",
-  "license": "commercial",
+  "repository": "git@github.com:xmd5a/test-package.git",
+  "author": "Piotr Szarmach",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "build": "tsc"
