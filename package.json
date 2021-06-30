@@ -1,0 +1,24 @@
+{
+  "name": "@ecolytiq/design-system",
+  "version": "0.1.0",
+  "description": "Ecolytiq design system",
+  "main": "index.js",
+  "repository": "git@github.com:ecolytiq-team/js-design-system.git",
+  "author": "PGS Software",
+  "license": "commercial",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.11.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.4"
+  },
+  "peerDependencies": {
+    "@material-ui/core": "^4.11.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
